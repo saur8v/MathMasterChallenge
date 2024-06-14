@@ -1,0 +1,57 @@
+.outer-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image:url(../01.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.App {
+  text-align: center;
+  width: 40%;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #bbe4e9e0;
+  border-radius: 18px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 1.5rem;
+}
+
+#problem {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+input {
+  font-size: 15px;
+  padding: 8px;
+  width: 50%;
+  margin-right: 1rem;
+  border-radius: 8px;
+  border: none;
+  background-color: whitesmoke;
+}
+
+button {
+  font-size: 15px;
+  padding: 8px 15px;
+  margin-top: 15px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+}
+
+#result {
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+#score, #time {
+  margin-top: 1rem;
+}
