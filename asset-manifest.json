@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MathMasterChallenge/static/css/main.8fdb1a6d.css",
+    "main.js": "/MathMasterChallenge/static/js/main.eddfa082.js",
+    "static/js/453.0c3b1d31.chunk.js": "/MathMasterChallenge/static/js/453.0c3b1d31.chunk.js",
+    "static/media/01.jpg": "/MathMasterChallenge/static/media/01.deb78b44867b18ba5c6f.jpg",
+    "index.html": "/MathMasterChallenge/index.html",
+    "main.8fdb1a6d.css.map": "/MathMasterChallenge/static/css/main.8fdb1a6d.css.map",
+    "main.eddfa082.js.map": "/MathMasterChallenge/static/js/main.eddfa082.js.map",
+    "453.0c3b1d31.chunk.js.map": "/MathMasterChallenge/static/js/453.0c3b1d31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fdb1a6d.css",
+    "static/js/main.eddfa082.js"
+  ]
+}
